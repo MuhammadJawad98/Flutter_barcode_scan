@@ -1,16 +1,6 @@
 # flutter_app_qrscan
 
-A new Flutter application.
+![WhatsApp Image 2021-01-03 at 4 00 33 PM (1)](https://user-images.githubusercontent.com/75657318/103484883-f4014080-4e13-11eb-83f4-142b8fe1a8e2.jpeg)
+![WhatsApp Image 2021-01-03 at 4 00 33 PM](https://user-images.githubusercontent.com/75657318/103484885-f5cb0400-4e13-11eb-9cea-a77cbe7257da.jpeg)
+![WhatsApp Image 2021-01-03 at 4 00 33 PM (2)](https://user-images.githubusercontent.com/75657318/103484886-f6639a80-4e13-11eb-93e0-7da218c92761.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
